@@ -9,7 +9,7 @@ MSE考研专业课资料收集
 
 03 作图题收集：https://www.cnblogs.com/Ph-one/category/1081663.html
 
-04 软件工程具体ppt整理（19/10/12 本周六更新）
+04 软件工程局部ppt整理（19/10/12 本周六更新）
 
 05 相关资料：https://pan.baidu.com/s/10x3RlyVRt_XsWFgseYowpg 提取码：7m0g
 
